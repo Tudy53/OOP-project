@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Tests" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-02-09T14:50:01" hostname="DESKTOP-Q9O520O" time="0.144">
+  <properties/>
+  <testcase name="test5RecommendSongs()" classname="Tests" time="0.144"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
